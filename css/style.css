@@ -1,0 +1,45 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+
+body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.well-lg {
+  font-size: 20px;
+}
+
+.well-sm {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#firstrow {
+  margin-top: 10%;
+}
+
+span {
+  font-size: 30px;
+}
+
+#tweet {
+  font-size: 28px;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.footer {
+  color: white;
+  font-size: 20px;
+}
+
+.alert {
+  display: none;
+}
